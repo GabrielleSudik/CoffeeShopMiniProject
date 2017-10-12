@@ -1,0 +1,69 @@
+﻿body {
+}
+
+.cssPics1{
+    height:250px;
+    width:auto;
+}
+
+h1{
+    color:orange;
+        font-family:'Courier New';
+}
+
+h2{
+    color:brown;
+}
+
+header{
+    background-color:brown;
+    color: orange;
+    text-align:center;
+    font-size:22px;
+
+}
+
+footer{
+    background-color:brown;
+    color:orange;
+    text-align:center;
+    font-size:14px;
+    clear: both;
+}
+
+.menuItemOdd{
+    background-color:lightblue;
+    font-family:'Comic Sans MS';
+    text-decoration:wavy;
+}
+
+.menuItemEven{
+    background-color:mediumorchid;
+    font-family:'MV Boli';
+    font-size:15px;
+}
+
+.columnL{
+    float: left;
+    width: 70%;
+    padding: 15px;
+    font-family:Calibri
+    color: brown;
+    
+}
+
+.columnR{
+    float: right;
+    width: 70%;
+    padding: 15px;
+    font-family:Calibri
+        color: brown;
+}
+
+.menu{
+    text-align:center;
+}
+
+.ownerPic{
+    float: right;
+}
